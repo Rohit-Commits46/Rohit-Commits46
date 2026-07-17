@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Rohit Nautiyal! 👋</h1>
 
-<h3 align="center">Backend Developer | GenAI Enthusiast | Competitive Programmer</h3>
+<h3 align="center">Full Stack Developer | GenAI Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rohit-nautiyal-a2122a180">
@@ -19,10 +19,9 @@
 ## 👨‍💻 About Me
 
 * 🎓 I'm currently pursuing my **B.Tech in Computer Science & Engineering** at **IIIT Jabalpur** (Class of 2027).
-* 💻 I specialize in **Backend Development** and building highly scalable, secure systems using **Node.js, Express, and Python**.
+* 💻 I specialize in **Full Stack Development**, crafting responsive, high-performance frontends with **React (Vite)** and architecting highly scalable, secure backend systems using **Node.js, Express, and Python**.
 * 🧠 Passionate about **GenAI and Machine Learning**, developing tools like RAG pipelines, automated ATS builders, and edge-device ML models for sound classification.
 * 🏆 Active **Competitive Programmer** with a peak rating of **1856 (Knight)** on LeetCode and **1200 (Pupil)** on Codeforces.
-
 
 ---
 
@@ -34,6 +33,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Frontend & UI
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-B73BA5?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
 </p>
 
 ### Backend & Databases
