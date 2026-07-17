@@ -22,7 +22,7 @@
 * 💻 I specialize in **Backend Development** and building highly scalable, secure systems using **Node.js, Express, and Python**.
 * 🧠 Passionate about **GenAI and Machine Learning**, developing tools like RAG pipelines, automated ATS builders, and edge-device ML models for sound classification.
 * 🏆 Active **Competitive Programmer** with a peak rating of **1856 (Knight)** on LeetCode and **1200 (Pupil)** on Codeforces.
-* ⚽ Off the screen, you can find me co-organizing **futsal** tournaments, boxing, or hitting the gym for heavy compound lifts.
+
 
 ---
 
@@ -61,14 +61,3 @@
 </p>
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Rohit-Commits46">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rohit-Commits46&show_icons=true&theme=radical&hide_border=true" alt="Rohit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Rohit-Commits46">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rohit-Commits46&theme=radical&hide_border=true" alt="Rohit's GitHub Streak" />
-  </a>
-</p>
